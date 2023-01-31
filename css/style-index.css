@@ -1217,9 +1217,9 @@ caption {
   margin-left: auto
 }
 
-/* FIN DE BOOTSTRAP */
+/* FIN DE BOOTSTRAP  FIN DE BOOTSTRAP  FIN DE BOOTSTRAP  FIN DE BOOTSTRAP  FIN DE BOOTSTRAP  FIN DE BOOTSTRAP  FIN DE BOOTSTRAP  FIN DE BOOTSTRAP */
 
-/* STYLE GENERAL */
+/* STYLE GENERAL  STYLE GENERAL  STYLE GENERAL  STYLE GENERAL  STYLE GENERAL  STYLE GENERAL  STYLE GENERAL  STYLE GENERAL  STYLE GENERAL */
 body {
   margin: 0;
   padding: 0;
@@ -1423,6 +1423,22 @@ a:hover {
   width: 26px
 }
 
+/* Modification des images en textes */
+.text-img-classic {
+  font-size: 16px;
+}
+
+.text-img-citation {
+  font-size: 16px;
+  font-style: italic;
+}
+
+.text-img-citation .auteur {
+  font-size: 16px;
+  font-style: normal;
+}
+
+/* FIN Modification des images en textes */
 @media (min-width:768px) {
   .site-navigation {
     position: absolute;
@@ -1869,9 +1885,9 @@ h4 {
   }
 }
 
-/* FIN STYLE GENERAL */
+/* FIN STYLE GENERAL  FIN STYLE GENERAL  FIN STYLE GENERAL  FIN STYLE GENERAL  FIN STYLE GENERAL  FIN STYLE GENERAL  FIN STYLE GENERAL  FIN STYLE GENERAL */
 
-/* FONT AWESOME */
+/* FONT AWESOME  FONT AWESOME  FONT AWESOME  FONT AWESOME  FONT AWESOME  FONT AWESOME  FONT AWESOME  FONT AWESOME  FONT AWESOME  FONT AWESOME  FONT AWESOME */
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
@@ -2036,9 +2052,9 @@ h4 {
   border: 0
 }
 
-/* FIN FONT AWESOME */
+/* FIN FONT AWESOME  FIN FONT AWESOME  FIN FONT AWESOME  FIN FONT AWESOME  FIN FONT AWESOME  FIN FONT AWESOME  FIN FONT AWESOME  FIN FONT AWESOME  FIN FONT AWESOME  FIN FONT AWESOME  FIN FONT AWESOME  FIN FONT AWESOME */
 
-/* ET LINE */
+/* ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE  ET LINE */
 @font-face {
   font-family: et-line;
   src: url(https://kentintl.github.io/P4-lapanthere/fonts/et-line.eot);
@@ -2087,4 +2103,4 @@ h4 {
   content: "\e063"
 }
 
-/* FIN ET LINE */
+/* FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE  FIN ET LINE */
