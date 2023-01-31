@@ -62,7 +62,6 @@ button {
 }
 
 button {
-  -webkit-appearance: button;
   cursor: pointer
 }
 
@@ -2050,7 +2049,6 @@ h4 {
 
 .et-icon-browser, .et-icon-dribbble, .et-icon-edit, .et-icon-facebook, .et-icon-presentation, .et-icon-target, .et-icon-twitter {
   font-family: et-line;
-  speak: none;
   font-style: normal;
   font-weight: 400;
   font-variant: normal;
