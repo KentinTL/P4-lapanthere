@@ -1425,16 +1425,16 @@ a:hover {
 
 /* Modification des images en textes */
 .text-img-classic {
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .text-img-citation {
-  font-size: 16px;
+  font-size: 20px;
   font-style: italic;
 }
 
 .text-img-citation .auteur {
-  font-size: 16px;
+  font-size: 20px;
   font-style: normal;
 }
 
