@@ -1,3 +1,4 @@
+/* BOOTSTRAP */
 /*!
  * Bootstrap v3.3.5 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
@@ -1452,6 +1453,9 @@ a.label:focus, a.label:hover {
   margin-left: auto
 }
 
+/* FIN BOOTSRAP */
+
+/* STYLE GENERAL */
 body {
   margin: 0;
   padding: 0;
@@ -1988,6 +1992,9 @@ h4 {
   }
 }
 
+/* FIN STYLE GENERAL */
+
+/* FONT AWESOME */
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
@@ -2148,6 +2155,9 @@ h4 {
   border: 0
 }
 
+/* FIN FONT AWESOME */
+
+/* ET LINE */
 @font-face {
   font-family: et-line;
   src: url(https://kentintl.github.io/P4-lapanthere/fonts/et-line.eot);
@@ -2184,3 +2194,5 @@ h4 {
 .et-icon-dribbble:before {
   content: "\e063"
 }
+
+/* FIN ET LINE */
