@@ -1794,7 +1794,12 @@ p {
 
 .social {
   max-width: 400px;
-  margin: auto auto auto auto
+  margin: auto auto auto auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white !important;
 }
 
 h2 {
@@ -1999,10 +2004,6 @@ h4 {
   src: url(https://kentintl.github.io/P4-lapanthere/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype'), url(https://kentintl.github.io/P4-lapanthere/fonts/fontawesome-webfont.woff2?v=4.7.0) format('woff2'), url(https://kentintl.github.io/P4-lapanthere/fonts/fontawesome-webfont.woff?v=4.7.0) format('woff'), url(https://kentintl.github.io/P4-lapanthere/fonts/fontawesome-webfont.ttf?v=4.7.0) format('truetype'), url(https://kentintl.github.io/P4-lapanthere/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format('svg');
   font-weight: 400;
   font-style: normal
-}
-
-.social span {
-  color: white;
 }
 
 .fa {
