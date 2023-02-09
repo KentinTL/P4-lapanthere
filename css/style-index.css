@@ -1310,7 +1310,7 @@ a:hover {
   color: rgba(255, 255, 255, .9)
 }
 
-.d-bloc .a-btn, .d-bloc .navbar a, .d-bloc .navbar-brand, .d-bloc a .icon-lg, .d-bloc a .icon-md, .d-bloc a .icon-sm, .d-bloc h1 a, .d-bloc h2 a, .d-bloc h3 a, .d-bloc h4 a, .d-bloc h5 a, .d-bloc h6 a, .d-bloc p a {
+.d-bloc .a-btn, .d-bloc .navbar a, .d-bloc .navbar-brand, .d-bloc a .icon-lg, .d-bloc a .icon-sm, .d-bloc h1 a, .d-bloc h2 a, .d-bloc h3 a, .d-bloc h4 a, .d-bloc h5 a, .d-bloc h6 a, .d-bloc p a {
   color: rgba(255, 255, 255, .6)
 }
 
@@ -1583,7 +1583,7 @@ a[data-lightbox]:hover img {
 }
 
 p {
-  font-size: 11px
+  font-size: 14px
 }
 
 .tight-width-whitespace {
@@ -1682,7 +1682,7 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important
+  color: white !important
 }
 
 .btn-atomic-tangerine {
@@ -1898,10 +1898,6 @@ h4 {
   src: url(https://kentintl.github.io/P4-lapanthere/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype'), url(https://kentintl.github.io/P4-lapanthere/fonts/fontawesome-webfont.woff2?v=4.7.0) format('woff2'), url(https://kentintl.github.io/P4-lapanthere/fonts/fontawesome-webfont.woff?v=4.7.0) format('woff'), url(https://kentintl.github.io/P4-lapanthere/fonts/fontawesome-webfont.ttf?v=4.7.0) format('truetype'), url(https://kentintl.github.io/P4-lapanthere/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format('svg');
   font-weight: 400;
   font-style: normal
-}
-
-.social span {
-  color: white;
 }
 
 .fa {
