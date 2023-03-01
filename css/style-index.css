@@ -18,6 +18,10 @@ footer, header, nav {
   display: block
 }
 
+footer p {
+  font-size: 18px;
+}
+
 [hidden] {
   display: none
 }
