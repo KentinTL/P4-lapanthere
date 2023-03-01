@@ -1742,6 +1742,7 @@ a:hover {
 .hero-bloc-text {
   font-size: 38px;
   font-weight: 700;
+  color: #333 !important;
 }
 
 p {
@@ -1752,6 +1753,7 @@ p {
   max-width: 600px;
   font-weight: 700;
   font-size: 18px;
+  color: #333 !important;
   margin: auto auto auto auto
 }
 
@@ -1773,6 +1775,8 @@ p {
   max-width: 400px;
   margin: auto auto auto auto;
   display: flex;
+  font-size: 16px;
+  font-weight: 500;
   flex-direction: column;
   justify-content: center;
   align-items: center;
