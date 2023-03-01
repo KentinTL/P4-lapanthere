@@ -1779,10 +1779,6 @@ p {
   /* color: white !important; */
 }
 
-.social span {
-  visibility: hidden;
-}
-
 h2 {
   font-size: 22px;
   line-height: 1.4em
@@ -1809,6 +1805,10 @@ h4 {
 
 .bgc-white {
   background-color: #fff
+}
+
+.bgc-atomic-tangerine {
+  background-color: #f3976c
 }
 
 .tc-white {
