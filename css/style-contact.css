@@ -1779,6 +1779,10 @@ p {
   /* color: white !important; */
 }
 
+.social span {
+  visibility: hidden;
+}
+
 h2 {
   font-size: 22px;
   line-height: 1.4em
@@ -1807,17 +1811,13 @@ h4 {
   background-color: #fff
 }
 
-.bgc-atomic-tangerine {
-  background-color: #f3976c
-}
-
 .tc-white {
   color: white !important
 }
 
 .btn-atomic-tangerine {
   background: #f3976c;
-  color: #fff !important
+  color: #333;
 }
 
 .btn-atomic-tangerine:hover {
