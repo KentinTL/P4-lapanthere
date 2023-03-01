@@ -1775,6 +1775,7 @@ p {
   max-width: 400px;
   margin: auto auto auto auto;
   display: flex;
+  font-size: 18px;
   font-weight: 700;
   flex-direction: column;
   justify-content: center;
