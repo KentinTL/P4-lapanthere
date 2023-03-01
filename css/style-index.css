@@ -19,7 +19,7 @@ footer, header, nav {
 }
 
 footer p {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 900;
 }
 
@@ -1595,10 +1595,10 @@ p {
 
 .cta-hero {
   margin-top: 22px;
-  color: #fff !important;
+  color: #333;
   text-transform: uppercase;
   padding: 12px 28px 12px 28px;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 900
 }
 

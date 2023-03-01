@@ -20,7 +20,7 @@ footer, header, nav {
 }
 
 footer p {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 900;
 }
 
@@ -1740,7 +1740,8 @@ a:hover {
 }
 
 .hero-bloc-text {
-  font-size: 38px
+  font-size: 38px;
+  font-weight: 700;
 }
 
 p {
@@ -1752,6 +1753,11 @@ p {
   margin: auto auto auto auto
 }
 
+.tight-width-whitespace p {
+  font-weight: 700;
+  font-size: 18px;
+}
+
 .h1 {
   font-size: 20px;
   font-family: "Open Sans"
@@ -1759,10 +1765,10 @@ p {
 
 .cta-hero {
   margin-top: 22px;
-  color: #fff !important;
+  color: #333;
   text-transform: uppercase;
   padding: 12px 28px 12px 28px;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 900
 }
 
