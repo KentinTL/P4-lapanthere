@@ -1604,7 +1604,7 @@ p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: white !important;
+  /* color: white !important; */
 }
 
 h2 {
